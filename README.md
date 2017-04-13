@@ -2,7 +2,7 @@
 >工作生活中遇到的一些提高逼格的软件与提搞生产力的工具
 
 #### 护眼
-* [Flux](https://justgetflux.com/) --software to make your life better
+* [Flux](https://justgetflux.com/) --software to make your life better (ps:最近更新了Windows 10 创意者，加入夜灯的功能，具体在开始->设置->系统->显示中可以进行设置 2017.4.13)
 
 #### 视频转Gif
 * [ScreenToGif](http://www.screentogif.com/) --Screen, webcam and sketchboard recorder with an integrated editor.
