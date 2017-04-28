@@ -30,3 +30,6 @@
 #### 字体管理
 * [HelloFont](http://www.hellofont.cn/) -- 心怀字由，设计随行
 
+#### PDF阅读器
+* [Gaaiho Reader]() --
+
