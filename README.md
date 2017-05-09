@@ -30,6 +30,6 @@
 #### 字体管理
 * [HelloFont](http://www.hellofont.cn/) -- 心怀字由，设计随行
 
-#### PDF阅读器
-* [Gaaiho Reader]() --
+#### 其他小工具
+* [LastActivityView](http://www.nirsoft.net/utils/computer_activity_view.html) -- 查看一段时间内你的电脑的使用记录(别以为我不知道你刚看完毛片)
 
