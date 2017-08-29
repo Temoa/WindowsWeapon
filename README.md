@@ -30,6 +30,9 @@
 #### 字体管理
 * [HelloFont](http://www.hellofont.cn/) -- 心怀字由，设计随行
 
+#### 文件压缩
+* [Bandizip](http://www.bandisoft.com/bandizip/cn/) -- 轻巧、快速、免费的压缩软件
+
 #### 其他小工具
 * [LastActivityView](http://www.nirsoft.net/utils/computer_activity_view.html) -- 查看一段时间内你的电脑的使用记录(别以为我不知道你刚看完毛片)
 
