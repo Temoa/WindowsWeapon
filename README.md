@@ -36,4 +36,5 @@
 
 #### 其他小工具
 * [LastActivityView](http://www.nirsoft.net/utils/computer_activity_view.html) -- 查看一段时间内你的电脑的使用记录(别以为我不知道你刚看完毛片)
+* [Display-Lock](https://github.com/idietmoran/Display-Lock) -- Lightweight program that locks cursor in selected window, designed with performance in mind.
 
