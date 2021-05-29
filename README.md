@@ -16,7 +16,6 @@
 * [PotPlayer](http://potplayer.daum.net/) -- (ps:PotPlayer 搭配[Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) 食用, 疗效更佳)
 
 #### 编辑器
-* [NotePad++](https://notepad-plus-plus.org/) -- Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
 * [Visual Studio Code](https://code.visualstudio.com/) -- Free. Open source. Runs everywhere.
 
 #### git
