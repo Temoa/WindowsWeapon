@@ -25,6 +25,7 @@
 
 #### 壁纸
 * [MyerSplash Wallpaper](http://www.microsoft.com/en-us/store/p/myersplash/9nblggh4vcsn) -- Probably the best-looking wallpaper app on Windows 10. (ps:非常推荐该作者的其他UWP软件, 做得很美)
+* [lively](https://github.com/rocksdanister/lively) -- Free and open-source software that allows users to set animated desktop wallpapers and screensavers.(类似 steam 上的 Wallpaper Engine )
 
 #### 输入法
 * [小狼毫 Weasel | 中州韵输入法引擎](http://rime.im/) -- 聪明的输入法懂我心意! -- 击响中文之韵!
